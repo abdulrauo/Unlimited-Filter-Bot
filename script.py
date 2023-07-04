@@ -8,7 +8,6 @@ There is no practical limits for my filtering capacity :)
 See <i>/help</i> for commands and more details.</b>
 """
 
-
     HELP_MSG = """
 <i>Add me as admin in your group and start filtering :)</i>
 
@@ -51,10 +50,9 @@ See <i>/help</i> for commands and more details.</b>
 <b>© @TroJanzHEX</b>
 """
 
+    ABOUT_MSG = """⭕️<b>My Name : Rauof ikka</b>
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
-
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @gyre_network    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
